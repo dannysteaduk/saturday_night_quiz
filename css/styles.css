@@ -1,0 +1,168 @@
+* {
+    box-sizing: border-box;
+}
+
+/* ----- COLOURS ----- */
+:root {
+    --blue: #1077b5;
+    --dark-grey: #444;
+    --light-grey: #eee;
+    --gradient: linear-gradient(45deg, rgba(32,163,212,1) 0%, rgba(0,213,186,1) 100%);
+}
+
+/* ----- TYPOGRAPHY ----- */
+
+h1 {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 4rem;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+    padding: 20px 0;
+}
+
+h2 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 2rem;
+    font-weight: 600;
+    text-align: center;
+    letter-spacing: -0.5px;
+    line-height: 1.4;
+    color: var(--dark-grey);
+    padding: 20px 0;
+
+}
+
+h3 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1.6rem;
+    font-weight: 600;
+    text-align: center;
+    letter-spacing: -0.5px;
+    line-height: 1.4;
+    color: #fff;
+    padding: 10px 0;
+}
+
+h4 {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 900;
+    text-align: center;
+    text-transform: uppercase;
+    color: var(--blue);
+    padding: 20px 0;
+
+}
+
+h5 {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 0.9rem;
+    font-weight: 900;
+    text-align: center;
+    text-transform: uppercase;
+    color: var(--blue);
+    padding: 20px 0;
+
+}
+
+/* ----- GRID ----- */
+
+.home-container {
+    width: 90%;
+    height: 100vh;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row {
+    padding: 50px 0;
+    transition-duration: 0.15s;
+    animation: fadein 2s;
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+.row:hover {
+    transform: scale(1.1, 1.1);
+}
+
+/* ----- HELPER CLASSES ----- */
+
+.center {
+    text-align: center;
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+/* ----- BUTTONS ----- */
+
+button {
+    display: block;
+    padding: 20px 40px;
+    margin: 20px auto;
+    border: none;
+    border-radius: 10px;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    color: var(--blue);
+    box-shadow: 0px 3px 0px 0px;
+}
+
+/* ----- MAIN ----- */
+
+body {
+    background: var(--gradient);
+    background-attachment: fixed;
+    height: 100%; 
+}
+
+.question-mark {
+    width: 150px;
+    margin: 20px auto;
+}
+
+#questions-list {
+    animation: fadein 2s;
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+.box {
+    padding: 50px;
+    margin: 80px auto;
+    width: 80%;
+    border-radius: 10px;
+    background: #fff;
+    transition-duration: 0.15s;
+}
+
+.box:hover {
+    transform: scale(1.1, 1.1);
+}
+
+.answer {
+    background: var(--light-grey);
+    padding: 20px 50px;
+    border-radius: 10px;
+}
+
+#back {
+    margin: 50px 0;
+}
