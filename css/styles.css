@@ -160,8 +160,10 @@ body {
 /* ----- MEDIA QUERIES ----- */
 
 @media (max-width: 600px) {
+
     .question-mark {
-        width: 100px
+        width: 100px;
+        margin: 0 auto;
     }
     h1 {
       font-size: 3rem;
@@ -178,5 +180,11 @@ body {
     .box {
         width: 90%;
         margin: 50px auto;
+    }
+    .box:hover {
+        transform: scale(1.03, 1.03);
+    }
+    .row:hover {
+        transform: none;
     }
   }
