@@ -810,5 +810,397 @@ const questionsAndAnswers = [
     {
         question: "Which is the most successful major league baseball team in terms of most World Series won?",
         answer: "New York Yankees"
+    },
+    {
+        question: "In which country did the Enchilada originate?",
+        answer: "Mexico"
+    },
+    {
+        question: "Which English king was known as 'Lionheart'?",
+        answer: "Richard I"
+    },
+    {
+        question: "Who lived in the house and estate of Chartwell until 1964?",
+        answer: "Winston Churchill"
+    },
+    {
+        question: "IBM is a multinational technology company, what do the initials IBM stand for?",
+        answer: "International Business Machines"
+    },
+    {
+        question: "Haweswater, in the Lake District, was built from 1929 to supply water to which city?",
+        answer: "Manchester"
+    },
+    {
+        question: "Which, at 2294 miles, is the longest river in Europe?",
+        answer: "Volga"
+    },
+    {
+        question: "The name Vodka is derived from the Russian word Voda, which means what in English?",
+        answer: "Water"
+    },
+    {
+        question: "Who did George W. Bush defeat in the 2000 U.S. Presidential Election?",
+        answer: "Al Gore"
+    },
+    {
+        question: "Which African country was known as Rhodesia between 1964 and 1979?",
+        answer: "Zimbabwe"
+    },
+    {
+        question: "The largest cathedral in the UK can be found in which city?",
+        answer: "Liverpool"
+    },
+    {
+        question: "In which year did British forces complete the evacuation of 338,000 troops from Dunkirk in France?",
+        answer: "1940"
+    },
+    {
+        question: "Which company first introduced the Tea Bag into Britain in 1953?",
+        answer: "Tetley"
+    },
+    {
+        question: "Which was the highest grossing film of the 2000s?",
+        answer: "Avatar"
+    },
+    {
+        question: "In which prison complex off the coast of South Africa was Nelson Mendela imprisoned?",
+        answer: "Robben Island"
+    },
+    {
+        question: "Which regularly scheduled train service first departed from Paris 1883?",
+        answer: "The Orient Express"
+    },
+    {
+        question: "In 1956 Tunisia gained independence from which country?",
+        answer: "France"
+    },
+    {
+        question: "What is the state capital of Arizona?",
+        answer: "Phoenix"
+    },
+    {
+        question: "In which religion is the cow considered to be sacred?",
+        answer: " Hindu"
+    },
+    {
+        question: "Which was the first European team to win the football World Cup?",
+        answer: "Italy"
+    },
+    {
+        question: "Which element has the Atomic number of 6?",
+        answer: "Carbon"
+    },
+    {
+        question: "Which park established in 1857 is one of the most filmed locations in the world?",
+        answer: "Central Park, New York City"
+    },
+    {
+        question: "What is the national mapping agency for Great Britain?",
+        answer: "Ordnance Survey"
+    },
+    {
+        question: "In what year was the United Nations formed?",
+        answer: "1945"
+    },
+    {
+        question: "Since 'Brexit' the acronym WTO has been much used in the UK, but what organisation does this represent?",
+        answer: "World Trade Organization"
+    },
+    {
+        question: "In which American TV drama did Idris Elba rise to fame as Russell 'Stringer' Bell?",
+        answer: "The Wire"
+    },
+    {
+        question: "Julian Assange sought refuge at which country's London embassy in June 2012?",
+        answer: "Ecuador"
+    },
+    {
+        question: "What do the initials RNLI represent?",
+        answer: "Royal National Lifeboat Institution"
+    },
+    {
+        question: "What is the Middle Eastern capital whose name means 'Abode of Islam' in Urdu.",
+        answer: "Islamabad"
+    },
+    {
+        question: "Which comedy was set on the remote backwater of Craggy Island?",
+        answer: "Father Ted"
+    },
+    {
+        question: "Ingrid Bergman, who starred in Casablanca, was born in which country?",
+        answer: "Sweden"
+    },
+    {
+        question: "How many distinct bones are in a human hand?",
+        answer: "27"
+    },
+    {
+        question: "Who is the All-Father of all the Nordic Gods?",
+        answer: "Odin"
+    },
+    {
+        question: "Playing in the NBA which team are known as the 'Heat'?",
+        answer: "Miami"
+    },
+    {
+        question: "John F. Kennedy International Airport services which city?",
+        answer: " New York City"
+    },
+    {
+        question: "Which South American country is bordered by Colombia to the north and Peru to the east and south?",
+        answer: "Ecuador"
+    },
+    {
+        question: "What is the occupation of Otto Man in the animated series The Simpsons?",
+        answer: "School Bus Driver"
+    },
+    {
+        question: "What colour is the lower half of the Welsh flag?",
+        answer: "Green"
+    },
+    {
+        question: "What is the name for a container, often made of papier-mache which is decorated, filled with sweets and then beaten with sticks to reveal its contents?",
+        answer: "Pinata"
+    },
+    {
+        question: "What is the nationality of the Formula One champion Sebastian Vettel?",
+        answer: "German"
+    },
+    {
+        question: "Which 'W' is the largest prison in the UK by capacity?",
+        answer: "Wandsworth"
+    },
+    {
+        question: "John Bonham played drums for which English rock band?",
+        answer: "Led Zeppelin"
+    },
+    {
+        question: "Which founder of the Mongol Empire was also known as 'Temujin'?",
+        answer: "Genghis Khan"
+    },
+    {
+        question: "Which 'E' is the most spoken constructed language in the world?",
+        answer: "Esperanto"
+    },
+    {
+        question: "If you took a walk along Venice Beach, in which city would you be?",
+        answer: "Los Angeles"
+    },
+    {
+        question: "David Beckham's son Cruz was born where?",
+        answer: " Madrid, Spain"
+    },
+    {
+        question: "As of 2016, which nation has been runner-up in the Football World Cup the most times without actually winning it?",
+        answer: "Netherlands"
+    },
+    {
+        question: "What does GPS stand for in GPS navigation devices?",
+        answer: "Global Positioning System"
+    },
+    {
+        question: "Kyle Reese is a fictional character from which film franchise?",
+        answer: "Terminator"
+    },
+    {
+        question: "Which Dutch painter painted the 'Prodigal Son in the Brothel' self-portrait?",
+        answer: "Rembrandt"
+    },
+    {
+        question: "Dufourspitze is the highest mountain in which European county?",
+        answer: "Switzerland"
+    },
+    {
+        question: "Nasser Hussain played international test cricket for which country?",
+        answer: "England"
+    },
+    {
+        question: "Which Europe's most southernly capital city?",
+        answer: "Nicosia, Cyprus"
+    },
+    {
+        question: "The film Grease was mostly filmed in which US state?",
+        answer: "California"
+    },
+    {
+        question: "Which Irish writer and clergyman wrote Gulliver's Travels?",
+        answer: "Jonathan Swift"
+    },
+    {
+        question: "What is the name of Paul McCartney's fashion designing daughter?",
+        answer: "Stella"
+    },
+    {
+        question: "Prior to the Euro, what was the name of the currency of Germany?",
+        answer: "Deutsche Mark"
+    },
+    {
+        question: "The zloty, meaning Golden, is the currency of which Eastern European country?",
+        answer: "Poland"
+    },
+    {
+        question: "The Koruna became the currency of which Eastern European in 1993?",
+        answer: "Czech Republic"
+    },
+    {
+        question: "Which US president has appeared on 25 cent quarters since 1932?",
+        answer: "George Washington"
+    },
+    {
+        question: "In the film Cars, who voices the character Lightning McQueen?",
+        answer: "Owen Wilson"
+    },
+    {
+        question: "The film Tangled is a retelling of which German fairytale?",
+        answer: "Rapunzel"
+    },
+    {
+        question: "Jamie Lee Curtis and Lyndsay Lohan swap characters in which 2003 film?",
+        answer: "Freaky Friday"
+    },
+    {
+        question: "In Toy Story, who provides the voice of Buzz Lightyear?",
+        answer: "Tim Allen"
+    },
+    {
+        question: "In the film Frozen, who played the voice of Anna?",
+        answer: "Kristen Bell"
+    },
+    {
+        question: "Where is the film Das Boot set?",
+        answer: "On a submarine"
+    },
+    {
+        question: "Who wrote the novel on which the film The Green Mile is based?",
+        answer: "Stephen King"
+    },
+    {
+        question: "Which film from 1994 stars Samuel L Jackson and had a tagline of 'You won't know the facts until you've seen the fiction'?",
+        answer: "Pulp Fiction"
+    },
+    {
+        question: "In Raiders of the Lost Ark, who plays the female lead character, Marion Ravenwood?",
+        answer: "Karen Allen"
+    },
+    {
+        question: "Which film starring Morgan Freeman had the tagline 'Fear can hold you prisoner. Hope can set you free'?",
+        answer: "Shawshank Redemption"
+    },
+    {
+        question: "Which 2005 film starring Anthony Hopkins is the story of New Zealander Burt Munro, who set the land speed world record at Utah's Bonneville Salt Flats in 1967?",
+        answer: "The World's Fastest Indian"
+    },
+    {
+        question: "What is the name of the 2015 film about a frontiersman on a fur trading expedition in the 1820s and his fight for survival after being mauled by a bear?",
+        answer: "The Revenant"
+    },
+    {
+        question: "Which film starring Chris Hemsworth and Daniel Brühl, charts the formula 1 rivalry of James Hunt and Niki Lauda?",
+        answer: "Rush"
+    },
+    {
+        question: "Which film from 1999 stars Edward Norton and Brad Pitt?",
+        answer: "Fight Club"
+    },
+    {
+        question: "Who resigned as British Prime Minister in april 1955 due to failing health?",
+        answer: "Winston Churchill"
+    },
+    {
+        question: "Longacre Square in Midtown Manhattan changed its name in 1904 to what?",
+        answer: "Times Square"
+    },
+    {
+        question: "German forces launched their third offensive of the Battle of Verdun during which war?",
+        answer: "World War I"
+    },
+    {
+        question: "In April 2003 US troops captured Baghdad, leading to the collapse of whose regime two days later?",
+        answer: "Saddam Hussein"
+    },
+    {
+        question: "8 Manchester United players and 15 other passengers were killed in February 1958 in an accident that became known as what?",
+        answer: "Munich air disaster"
+    },
+    {
+        question: "In 1587 which queen was executed for her part in the ‘Babington Plot’ to murder her cousin?",
+        answer: "Mary, Queen of Scots"
+    },
+    {
+        question: "Henry E Steinway who died in Feb 1871 was a German-American businessman who founded a company making what?",
+        answer: "Pianos"
+    },
+    {
+        question: "In 1918 Finland declared its independence from which country?",
+        answer: "Russia"
+    },
+    {
+        question: "The Burj Khalifa is in which country?",
+        answer: "United Arab Emirates"
+    },
+    {
+        question: "Rose Heilbron became the first female judge to sit where in 1972?",
+        answer: "The Old Bailey"
+    },
+    {
+        question: "Which iconic structure began its construction in California in January 1933?",
+        answer: "Golden Gate Bridge"
+    },
+    {
+        question: "The Battle of Marston Moor took place in 1644 during which war?",
+        answer: "English Civil War"
+    },
+    {
+        question: "Which artist, famous for painting scenes of life in the industrial districts of North West England, was born in 1887?",
+        answer: "LS Lowry"
+    },
+    {
+        question: "Which American magician and stuntman died of peritonitis on the halloween of 1926?",
+        answer: "Harry Houdini"
+    },
+    {
+        question: "In which Netflix drama does Henry Cavill play Geralt Of Rivia, a superhero monster hunter?",
+        answer: "The Witcher"
+    },
+    {
+        question: "Who was the  only Premier League manager in history to be born in Denmark?",
+        answer: "Michael Laudrup"
+    },
+    {
+        question: "Which Spanish coach took charge of Everton between June 2013 and May 2016?",
+        answer: "Roberto Martinez"
+    },
+    {
+        question: "The American adult animated sitcom South Park was created by which two writers?",
+        answer: "Trey Parker and Matt Stone"
+    },
+    {
+        question: "What comedy drama set on a council estate was created by Paul Abbott?",
+        answer: "Shameless"
+    },
+    {
+        question: "Which TV show starred the character DCI Jane Tennyson, with the last of the 7 series airing in 2006?",
+        answer: "Prime Suspect"
+    },
+    {
+        question: "In the series 'Breaking Bad' who played the main character Walter White?",
+        answer: "Bryan Cranston"
+    },
+    {
+        question: "Which TV comedy series follows the lives of employees at the fictional Sacred Heart teaching hospital?",
+        answer: "Scrubs"
+    },
+    {
+        question: "Which series from the 2000s featured the characters Sheldon and Leonard?",
+        answer: "The Big Bang Theory"
+    },
+    {
+        question: "Location, Location, Location has run from 2000, and has had which 2 hosts from the start?",
+        answer: "Phil Spencer and Kirstie Allsop"
+    },
+    {
+        question: "Which TV show set in the 1960s took place at an advertising agency on Madison Avenue?",
+        answer: "Mad Men"
     }
 ];
